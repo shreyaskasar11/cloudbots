@@ -3,3 +3,5 @@
 *.txt
 
 !eight.txt
+
+[aeiou]*.pdf
