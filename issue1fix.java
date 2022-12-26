@@ -1,2 +1,2 @@
-modified on master branch : this is the fix for the issue1
+this is the correct fix for the issue1 : according manager
 
